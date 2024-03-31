@@ -13,6 +13,10 @@ ex : python3 hashk.py -w /usr/share/wordlists/rockyou.txt -H /home/kali/hash.txt
 
 ## Installation :
 1. Vérifier que python3 est installer sur votre système
-2. vérifier que les librairies utilisés sont installés
-3. cloner le programme via git clone
-   git clone
+2. cloner le programme via git clone :
+**git clone https://github.com/Ak452/HashK.git**
+3. accédez au bon répertoire :
+   **cd HashK**
+4. Installer les éléments requis :
+   **pip install -r requirements.txt**
+5. Le programme est prêt à être utiliser.
