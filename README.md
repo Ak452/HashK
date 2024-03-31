@@ -11,7 +11,9 @@ ex : python3 hashk.py -w /usr/share/wordlists/rockyou.txt -H /home/kali/hash.txt
 ## Options utiles :
 
 -w : chemin pour accedez au fichier de la wordlist
+
 -H : chemin pour accedez au fichier du hash
+
 -h : pour afficher le menu d'aide
 
 ## Installation :
