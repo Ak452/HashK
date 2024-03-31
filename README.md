@@ -12,3 +12,7 @@ ex : python3 hashk.py -w /usr/share/wordlists/rockyou.txt -H /home/kali/hash.txt
 -h : pour afficher le menu d'aide
 
 ## Installation :
+1. Vérifier que python3 est installer sur votre système
+2. vérifier que les librairies utilisés sont installés
+3. cloner le programme via git clone
+   git clone
